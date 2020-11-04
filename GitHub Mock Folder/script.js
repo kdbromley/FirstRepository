@@ -1,0 +1,3 @@
+function makeEmptyFolder {
+//does nothing!
+}
